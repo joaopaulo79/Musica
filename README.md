@@ -1,2 +1,2 @@
 # Musica
-✔Programa que exibe a letra de uma música.
+✔Programa que exibe a letra de uma música com destaque no refrão.
